@@ -1,0 +1,8 @@
+{
+	"host": "localhost",
+	"username": "amministratore",
+	"password": "amministratore",
+	"port": 3306,
+	"database": "gestione-corsi"
+}
+
